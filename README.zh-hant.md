@@ -4,7 +4,7 @@
 「遊趣體」與 Monaspace Krypton 的合併字型，可用於程式設計用途。
 
 ## 字型簡介
-本字型是「[遊趣體](https://github.com/Des-Magmeta/ChildFunSans)」和 [Moralerspace](https://github.com/yuru7/moralerspace) 的合併字型，將漢字、部分符號部分更換為「遊趣體」並作出其他調整，可作為「遊趣體」用於程式設計用途的等寬版本。
+本字型是「[遊趣體](https://github.com/Des-Magmeta/ChildFunSans)」和 [Monaspace Krypton](https://github.com/githubnext/monaspace) 的合併字型，將漢字、部分符號部分更換為「遊趣體」並作出其他調整，可作為「遊趣體」用於程式設計用途的等寬版本。
 
 ## 製作與調整
 - 西文部分在 Monaspace Krypton 基礎上調整：
