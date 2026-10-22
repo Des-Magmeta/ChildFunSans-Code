@@ -1,15 +1,14 @@
 # 游趣体 Code | Child Fun Sans Code
-Child Fun Sans Code: A hybrid font mixed Child Fun Sans and Monaspace Krypton, suitable for coding.   
 「游趣体」与 Monaspace Krypton 的合并字体，可用于编程用途。
 
 ## 字体简介
-本字体是「[游趣体](https://github.com/Des-Magmeta/ChildFunSans)」和 [Moralerspace](https://github.com/yuru7/moralerspace) 的合并字体，将汉字、部分符号部分更换为「游趣体」并作出其他调整，可作为「游趣体」用于编程用途的等宽版本。
+本字体是「[游趣体](https://github.com/Des-Magmeta/ChildFunSans)」和 [Monaspace Krypton](https://github.com/githubnext/monaspace) 的合并字体，将汉字、部分符号部分更换为「游趣体」并作出其他调整，可作为「游趣体」用于编程用途的等宽版本。
 
 ## 制作与调整
 - 西文部分在 Monaspace Krypton 基础上调整：
   - 修改`‛`、`‟`等标点符号，使字形与其他字符风格设计一致；
   - 将部分与西文同宽的字符（如带圈数字序号、制表符）替换作「游趣体」样式；
-  - 补全汉语拼音、台罗拼音、白话字相关字符及其所需组合变音符号；
+  - 补全汉语拼音、台罗拼音、白话字等相关字符及其所需组合变音符号；
   - 增加连字字符 `U+FB00`「ﬀ」-`U+FB04`「ﬄ」；
   - 移除私用区 Powerline 和上下标外的所有符号；
   - 移除原有全宽标点`｛`、`｝`。
