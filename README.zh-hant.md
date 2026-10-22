@@ -1,3 +1,8 @@
+<div align="center">
+ 
+<span lang="zh-hans">[简体中文](README.md)</span> | <span lang="zh-hant">繁體中文</span>
+</div>
+
 <span lang="zh-hant">
 
 # 遊趣體 Code | Child Fun Sans Code
