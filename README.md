@@ -1,3 +1,8 @@
+<div align="center">
+ 
+<span lang="zh-hans">简体中文</span> | <span lang="zh-hant">[繁體中文](README.zh-hant.md)</span>
+</div>
+
 # 游趣体 Code | Child Fun Sans Code
 「游趣体」与 Monaspace Krypton 的合并字体，可用于编程用途。
 
