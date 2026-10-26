@@ -14,7 +14,7 @@
 ## 製作與調整
 - 西文部分在 Monaspace Krypton 基礎上調整：
   - 修改`‛`、`‟`等標點符號，使字形與其他字元風格設計一致；
-  - 將部分與西文同寬的字元（如帶圈數位序號、定位字元）替換作「遊趣體」樣式；
+  - 將部分與西文同寬的字元（如帶圈數位序號、表格符號）替換作「遊趣體」樣式；
   - 補全漢語拼音、台羅拼音、白話字等相關字元及其所需組合變音符號；
   - 增加連字字元 `U+FB00`「ﬀ」-`U+FB04`「ﬄ」；
   - 移除私用區 Powerline 和上下標外的所有符號；
@@ -25,7 +25,7 @@
   - 移除 `dlig`「自由連字」特性，防止部分終端／IDE 下字形無法正確顯示；
   - 將使用 Monaspace Krypton 的字元移出 `vert` 特性。
 
-- 根據 Unicode 16.0 標準化變體序列（Standardized Variation Sequences, SVS），新增彎引號 `“‘’”` `“︁‘︁’︁”︁` 寬度選擇。
+- 根據 Unicode 16.0 標準化變體序列（Standardized Variation Sequences, SVS），新增彎引號`“‘’”寬度以及全形標點符號`，．、。？！：；`位置選擇。
 
 ## 變體版本
 
@@ -53,7 +53,7 @@
 
 ### Windows (PowerShell)
 ```
-# 安裝必要檔
+# 安裝必要組件
 pip install -r requirements.txt
 # 構建字型
 & "C:\Program Files (x86)\FontForgeBuilds\bin\ffpython.exe" .\fontforge_script.py && python fonttools_script.py
@@ -89,11 +89,11 @@ docker run -it --rm -v $PWD:/workspace font/ChildFunSans-Code:latest
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Des%2DMagmeta%2FChildFunSans&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=Des%2DMagmeta%2FChildFunSans%2DCode&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans%2DCode&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans%2DCode&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Des%2DMagmeta/ChildFunSans%2DCode&type=date&legend=top-left" />
  </picture>
 </a>
 
