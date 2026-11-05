@@ -23,7 +23,7 @@
   - 移除 `dlig`「自由连字」特性，防止部分终端／IDE 下字形无法正确显示；
   - 将使用 Monaspace Krypton 的字符移出 `vert` 特性。
 
-- 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增弯引号 `“‘’”` `“︁‘︁’︁”︁` 宽度选择。
+- 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增弯引号 `“‘’”` 宽度以及全角标点符号`，．、。？！：；`位置的选择。
 
 ## 变体版本
 
@@ -66,7 +66,7 @@ docker run -it --rm -v $PWD:/workspace font/ChildFunSans-Code:latest
 -->
 
 ## 授权信息 
- 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
+ 本字体是基于 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 以及 GitHub Next 开发的 [Monaspace Krypton](https://github.com/githubnext/monaspace) 所改造的开源项目，遵循 SIL Open Font License 1.1 协议。
  
  ### 许可 
   - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者； 
