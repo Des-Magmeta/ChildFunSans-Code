@@ -3,6 +3,10 @@
 <span lang="zh-hans">[简体中文](README.md)</span> | <span lang="zh-hant">繁體中文</span>
 </div>
 
+> [!NOTE]  
+> - <span lang="ja">日本語版が必要な場合は、「[Moralerspace](https://github.com/yuru7/moralerspace)」を直接使用してください。</span><br>
+> For Japanese users or to show Japanese contexts correctly, please use the Japanese version [Moralerspace](https://github.com/yuru7/moralerspace) directly. 
+
 <span lang="zh-hant">
 
 # 遊趣體 Code | Child Fun Sans Code
