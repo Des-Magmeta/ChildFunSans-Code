@@ -3,6 +3,10 @@
 <span lang="zh-hans">简体中文</span> | <span lang="zh-hant">[繁體中文](README.zh-hant.md)</span>
 </div>
 
+> [!NOTE]  
+> - <span lang="ja">日本語版が必要な場合は、「[Moralerspace](https://github.com/yuru7/moralerspace)」を直接使用してください。</span><br>
+> For Japanese users or to show Japanese contexts correctly, please use the Japanese version [Moralerspace](https://github.com/yuru7/moralerspace) directly. 
+
 # 游趣体 Code | Child Fun Sans Code
 「游趣体」与 Monaspace Krypton 的合并字体，可用于编程用途。
 
