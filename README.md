@@ -47,6 +47,14 @@
   - 在部分终端下的显示宽度可能出现异常；  
   - 宽度无异常，但可能无法被正确识别为等宽字体，如将 PANOSE 强制设定为 `9` Monospaced，将出现上一条问题；
 - 本字体有部分排版特性缺失，如介意，请移步[此处](https://github.com/Des-Magmeta/ChildFunSans)使用完整版。
+- 不同语言环境下实际显示的名称可能不同，以下为不同语言环境下使用的名称：
+
+|         文件名称 \ 语言标签 | `zh_CN`, `zh_SG`, `zh_Hans` | `zh_TW`, `zh_HK`, `zh_MO`, `zh_Hans`             | 其他 |
+|---------------------------:|:---------------------------:|:------------------------------------------------:|:---------------------------|
+|`ChildFunSansCode-SCW50.ttf`| 游趣体 Code SC 五分宽        | <span lang="zh_Hant">遊趣體 Code SC 五分寬</span> | Child Fun Sans Code SC W50 |
+|`ChildFunSansCode-SCW60.ttf`| 游趣体 Code SC 六分宽        | <span lang="zh_Hant">遊趣體 Code SC 六分寬</span> | Child Fun Sans Code SC W60 |
+|`ChildFunSansCode-TCW50.ttf`| 游趣体 Code TC 五分宽        | <span lang="zh_Hant">遊趣體 Code TC 五分寬</span> | Child Fun Sans Code TC W50 |
+|`ChildFunSansCode-TCW60.ttf`| 游趣体 Code TC 六分宽        | <span lang="zh_Hant">遊趣體 Code TC 六分寬</span> | Child Fun Sans Code TC W60 |
 
 ## 构建
 用于构建的工具和运行环境：
